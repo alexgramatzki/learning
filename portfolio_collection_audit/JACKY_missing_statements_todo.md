@@ -101,6 +101,49 @@ Totals: A = 49 account gaps (389 periods), B = 34 payor/catalog pairs, C = 337 f
 
 | Catalog | Payor | Status | Files | Periods (where known) |
 |---|---|---|---|---|
+| Adrian Belew | (payor unknown – file not ingested) | PDF (not ingested) | 6 |  |
+| Alex Cantrall | (payor unknown – file not ingested) | PDF (not ingested) | 3 |  |
+| Brian kidd | (payor unknown – file not ingested) | PDF (not ingested) | 30 |  |
+| Chad Elliot | (payor unknown – file not ingested) | PDF (not ingested) | 6 |  |
+| Chelcee Grimes | (payor unknown – file not ingested) | PDF (not ingested) | 1 |  |
+| Chris Styles | (payor unknown – file not ingested) | PDF (not ingested) | 4 |  |
+| DJ Yella | (payor unknown – file not ingested) | Unprocessed | 9 |  |
+| DMX | (payor unknown – file not ingested) | Unprocessed | 5 |  |
+| David Tozer | (payor unknown – file not ingested) | PDF (not ingested) | 6 |  |
+| Desperado | (payor unknown – file not ingested) | Error | 2 |  |
+| Eddie Blackmon | (payor unknown – file not ingested) | PDF (not ingested) | 5 |  |
+| Jacob Schulze | (payor unknown – file not ingested) | PDF (not ingested) | 6 |  |
+| Jacob Schulze | (payor unknown – file not ingested) | Unprocessed | 22 |  |
+| Jason Derulo | (payor unknown – file not ingested) | PDF (not ingested) | 5 |  |
+| Jesper Borgen | (payor unknown – file not ingested) | PDF (not ingested) | 1 |  |
+| Joshua Bell | (payor unknown – file not ingested) | PDF (not ingested) | 27 |  |
+| Joshua Bell | (payor unknown – file not ingested) | Unprocessed | 5 |  |
+| Mark Hudson | (payor unknown – file not ingested) | PDF (not ingested) | 2 |  |
+| NACHO | (payor unknown – file not ingested) | PDF (not ingested) | 5 |  |
+| Nathan Chapman | (payor unknown – file not ingested) | PDF (not ingested) | 14 |  |
+| Neyo | (payor unknown – file not ingested) | Unprocessed | 4 |  |
+| Nicky Youre | (payor unknown – file not ingested) | PDF (not ingested) | 8 |  |
+| Paul Mabury | (payor unknown – file not ingested) | PDF (not ingested) | 21 |  |
+| Powfu | (payor unknown – file not ingested) | PDF (not ingested) | 2 |  |
+| Powfu | (payor unknown – file not ingested) | Unprocessed | 1 |  |
+| Ralph Jeanty | (payor unknown – file not ingested) | PDF (not ingested) | 3 |  |
+| Rebel Made | (payor unknown – file not ingested) | PDF (not ingested) | 47 |  |
+| Rebel Made | (payor unknown – file not ingested) | Unprocessed | 2 |  |
+| Rogerio Tutti | (payor unknown – file not ingested) | PDF (not ingested) | 2 |  |
+| Rogerio Tutti | (payor unknown – file not ingested) | Unprocessed | 2 |  |
+| Runaground | (payor unknown – file not ingested) | PDF (not ingested) | 4 |  |
+| Shawn Mendes | (payor unknown – file not ingested) | PDF (not ingested) | 1 |  |
+| Shawn Mendes | (payor unknown – file not ingested) | Unprocessed | 2 |  |
+| Simon Felice | (payor unknown – file not ingested) | PDF (not ingested) | 6 |  |
+| Sleeping With Sirens | (payor unknown – file not ingested) | Unprocessed | 1 |  |
+| Social House | (payor unknown – file not ingested) | PDF (not ingested) | 5 |  |
+| Spiff TV | (payor unknown – file not ingested) | PDF (not ingested) | 6 |  |
+| Stacy Barthe | (payor unknown – file not ingested) | PDF (not ingested) | 11 |  |
+| Steven Franks | (payor unknown – file not ingested) | PDF (not ingested) | 1 |  |
+| The Midnight | (payor unknown – file not ingested) | PDF (not ingested) | 8 |  |
+| Together | (payor unknown – file not ingested) | PDF (not ingested) | 33 |  |
+| Together | (payor unknown – file not ingested) | Unprocessed | 2 |  |
+| Wait A Minute | (payor unknown – file not ingested) | PDF (not ingested) | 1 |  |
 
 Full file names are in the workbook sheet *Jacky – Upload Tasks* (section C).
 
