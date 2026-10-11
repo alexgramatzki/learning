@@ -5,6 +5,27 @@
 
 ---
 
+## 0. The concrete, monetary findings (start here)
+
+These rest on statements that exist on both sides of a gap, or on a payor that stopped while other payors on the same catalog kept paying. Dollar figures are the payor's own run-rate or the Syncopate distribution engine's period estimate, not projections from consumption data.
+
+| # | Catalog / payor | What the statements show | Money | First action |
+|---|---|---|---|---|
+| 1 | Neyo / Universal Music Group | Semi-annual payor; last period 2025-06, now 15 months. UMG delivered its 2025-12 statement for Shawn Mendes and DMX, not for Neyo. | ≈ $650k per semi-annual statement (run-rate $1.3M/yr) | Ask UMG for the H2-2025 statement and confirm H1-2026 timing |
+| 2 | Nicky Youre / Stem | Monthly payor; last statement 2025-12. SoundOn and SoundExchange on the same catalog run to 2026-09. | ≈ $430k for the 9 missing months at the $579k/yr run-rate | Ask Stem for Jan–Sep 2026 statements |
+| 3 | Together / Because Editions + Together Publishing | Both co-publishers stopped at 2024-12; SACEM kept paying the same works to 2025-09. | ≈ $330k not received to date; $263k/yr ongoing | Ask both for H1-2025 onward and confirm no change of administrator |
+| 4 | Paul Mabury / So Essential Tunes (Sony Essential account 1924) | 10 quarters missing (2022-Q1 to 2023-Q2 and 2024-Q3 to 2025-Q2) with statements before, between and after. | ≈ $282k engine estimate | Request the 10 quarterly statements |
+| 5 | Desperado / Universal Music Group | The H1-2023 statement (period ending 2023-06-30) is missing on all 9 accounts; H2-2022 and H2-2023 exist with no catch-up amount. | ≈ $270k engine estimate | One request to UMG for the June 2023 statements |
+| 6 | Sleeping With Sirens / BMG (publishing) | 25 works earn $561k on the label side and are paid by ASCAP, but show $0 at BMG. On the 37 works BMG does pay, BMG income is 40% of label income. | ≈ $226k implied over the 3-year window if the same share applies | Ask BMG whether these 25 works are in the deal and registered |
+| 7 | Powfu / Powfu self-publishing + SoundExchange | Self-publishing statements stopped 2024-06, SoundExchange 2024-12; DistroKid and Sony on the same catalog run to 2026. | ≈ $122k + $16k not received to date | Locate or request the statements; check SoundExchange account status |
+| 8 | Joshua Bell / Sony Music Entertainment | Stopped at 2024-12; UMG UK and SoundExchange on the same catalog continue. | ≈ $105k not received to date ($84k/yr) | Ask Sony for 2025 statements and account status |
+| 9 | DVBBS / Doorn Records and Spinnin' sub-labels | Stopped 2023-12 while Spinnin' Records continues to 2026-06. | ≈ $86k not received to date ($38k/yr) | Confirm whether these were folded into the Spinnin' Records statement |
+| 10 | Chelcee Grimes / PRS; Shawn Mendes / ACTRA; Stacy Barthe / ASCAP Domestic | Interior gaps: PRS 14 months since 2024-08 (≈ £54k), ACTRA 4 quarters 2025-06 to 2026-03 (≈ CAD 32k), ASCAP Domestic stopped 2025-06 while ASCAP International continues (≈ $21k/yr) | ≈ $100k combined | Request the specific periods |
+
+Together these are roughly $2.0M of statements that should exist and do not, before any question about collection quality. Everything in sections C (DSP detail) and D (neighbouring rights) is real but conditional: either on better data or on confirming which rights were acquired.
+
+**Not findings.** The distribution engine initially flagged $639k of "missing" BMI periods (Nicky Youre, Allie Crystal). On inspection a second account ID holds statements for exactly those periods, so these are the same account under a changed ID. They are marked DATA (duplicate account ID) in the workbook and should go to Syncopate, not BMI. Thirty-five such duplicate-ID accounts were found.
+
 ## 1. The approach in one paragraph
 
 Every payor is judged against three independent yardsticks, never against theory alone:
@@ -31,8 +52,8 @@ A finding only becomes a **FAIL** when at least one strong yardstick (1 or 2) co
 Why we might be wrong: statements may have been received and never uploaded; accounts may have closed or moved administrator. The sheet detects likely successors (e.g. Social House: Avex → Sony Music Publishing; Kalman & Appel: Spirit → Raleigh; Allie Crystal: Ultra → Curve; Sleeping With Sirens: Epitaph/Curve → ADA; Jesper Borgen: TONO → STIM) and downgrades those to REVIEW: the question there is whether the old payor's final period and pipeline were paid.
 Also watch: UMG on **Neyo** (semi-annual, last period 2025-06, now 15 months) and **Stem** on Nicky Youre (monthly, last 2025-12).
 
-### B. Missing periods inside otherwise regular accounts – 137 accounts, 578 periods since 2023 (sheet *T2 Missing Periods*)
-Only *interior* gaps (statements exist before and after) are FAIL. Largest: SESAC/Paul Mabury (33 periods), SoundExchange/Nicky Youre (two accounts, 26 each – SoundExchange may simply pay quarterly, so confirm cadence first), PRS/Chelcee Grimes (15), Round Hill/Mark Hudson (14), BMG Records/Sleeping With Sirens (11), BMG/Vinyl Crown (10), BMI/Shawn Charles (10). Syncopate infers cadence, so verify internally before asking.
+### B. Missing periods inside otherwise regular accounts (sheet *T2 Missing Periods*)
+Only *interior statement gaps* (a detailed statement exists before and after, and the engine expects one) are FAIL: 49 accounts. Periods where only the PDF summary is missing, trailing gaps (see T1) and pre-2023 gaps are REVIEW. The largest are items 4, 5 and 10 above. Syncopate infers cadence, so confirm the payor really reports on that schedule before asking.
 
 ### C. DSP coverage: the publishers ARE collecting from the major DSPs – the risk is in what they don't itemise (sheets *T3*, *DSP Matrix*, *Unverifiable $*)
 Across all 51 catalogs, every active publisher/admin reports Spotify, Apple, YouTube, Amazon and Deezer where the label on the same catalog shows those services. The hypothesis "Universal collects Deezer but Sony doesn't" is **not supported** for this portfolio. Only three small DSP gaps pass the two-yardstick test (UMPG/Anghami on Shawn Mendes, UMPG/Tencent on Nicky Youre, Kobalt/Peloton on Chris Styles), each under $1.3k/yr.
@@ -62,7 +83,7 @@ Why we might be wrong: the deal may not include the performer share, or the labe
 
 ### E. Foreign performance for writers (sheet *T5 Territory Gaps*)
 PRO statements are combined per catalog (ASCAP Domestic + International, GMR + SOCAN, etc.) before testing, and the window is statement-based (foreign PRO income arrives 2–3 years late).
-* **Powfu / SOCAN** pays Canada only, while 93% of the label's streaming and 83% of the publisher's income come from elsewhere (US 57%). Foreign performance on the writer share is not reaching SOCAN. Ask SOCAN for foreign-society distribution status and confirm the IPI/registrations.
+* **Powfu / SOCAN**: historically SOCAN did pay foreign performance (US $254k, UK $43k all-time), but in the last 8 statement quarters only Canada appears, while 57% of label streaming is still US. Either foreign distributions have dried up faster than consumption or they are in the pipeline. Ask SOCAN for the foreign-society distribution status by territory.
 * **Paul Mabury / SESAC**: 2 countries paid; label and publisher show UK, Canada, Germany, Brazil, Australia.
 * Publishers (UMPG, Warner Chappell, Sony, Kobalt, BMG…) pay from 60+ countries on every catalog; residual gaps are 1–2% and REVIEW only.
 * Nicky Youre / BMI looked US-only on a transaction-date basis; on a statement basis BMI does pay France, Germany, Canada, Australia, Japan… so that earlier concern was a windowing artifact and is **cleared**.
